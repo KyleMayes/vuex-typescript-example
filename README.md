@@ -2,6 +2,10 @@
 
 An example of strongly typed usage of Vuex with TypeScript.
 
+This project was generated with the Vue CLI using the TypeScript option.<br/>
+The code described below has been added to showcase how one can use Vuex from
+TypeScript.
+
 ### Typings
 
 A set of typescript types is defined which can be used to define the type of
